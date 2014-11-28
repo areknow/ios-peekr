@@ -1,3 +1,3 @@
 Peekr
 =========
-iOS Password managment system
+iOS password managment system
